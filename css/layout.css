@@ -1,0 +1,75 @@
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: fuchsia;
+
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 0px 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
+
+li a:hover {
+  background-color: #555;
+  color:black ;
+}
+
+div{
+  text-align: center;
+} */
+.main{
+   margin-left:10%;
+  padding:1px 16px;
+  height:1000px;
+}
+body{
+background-image:url('../images/Background2.PNG');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: 100% 100%;
+}
+
+h1{
+  margin-left: 100px;
+  /* text-align: center; */
+}
+h2{
+  margin-left: 100px;
+  /* text-align: center; */
+}
+p{
+  margin-left: 150px;
+  /* text-align: center; */
+}
+.contact-image{
+  padding-right: 100px;
+  float: right;
+  padding: 10%;
+}
+
+.scott-image{
+  padding-right: 100px;
+  float: right;
+  padding: 10px;
+}
+.passport-image{
+  padding-right: 100px;
+  float:right;
+  padding: 10px;
+  width: 20%;
+}
+
+.hat-image{
+  padding-right: 100;
+  float: right;
+  padding: 10px;
+  width: 30%;
+}
